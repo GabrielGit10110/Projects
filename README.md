@@ -12,7 +12,7 @@ Olá! Sou Gabriel, estudante de **Análise e Desenvolvimento de Sistemas** e fut
 
 ---
 
-## 🔧 **Projetos em Andamento** | [imagem](https://img.shields.io/badge/projeto-atual-orange)
+## 🔧 **Projetos em Andamento** | ![EmDesenvolvimento](https://img.shields.io/badge/projeto-atual-orange)
 
 ### 1. **Chatbot de FAQ para WhatsApp**
 - **Descrição**: Bot que responde automaticamente perguntas frequentes sobre estágios em tecnologia.
