@@ -51,5 +51,3 @@ Olá! Sou Gabriel, estudante de **Análise e Desenvolvimento de Sistemas** e fut
 - **Portfólio**: Atualizado mensalmente com novos projetos.
 
 ---
-
-*"Um projeto de cada vez, sempre evoluindo!"* ✨
