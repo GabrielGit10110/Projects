@@ -39,7 +39,7 @@ Olá! Sou Gabriel, estudante de **Análise e Desenvolvimento de Sistemas** e fut
 ---
 
 ## 🌱 **Metas de Aprendizado**
-- Dominar **React** e **Node.js** até o final de 2024.
+- Dominar **React** e **Node.js** até o final de 2025.
 - Contribuir para um projeto open-source.
 - Aprofundar conhecimentos em **design patterns** e **arquitetura de código**.
 
